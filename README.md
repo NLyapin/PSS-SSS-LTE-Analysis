@@ -20,7 +20,7 @@
 
 * MATLAB с установленным LTE Toolbox (для функций `ltePSS`, `lteSSS`, `lteDLResourceGrid`, `lteOFDMModulate` и др.)
 * Базовые знания MATLAB и LTE-систем
-
+* Сэмплы - https://dropmefiles.com/ (для примера)
 ---
 
 ## Использование
