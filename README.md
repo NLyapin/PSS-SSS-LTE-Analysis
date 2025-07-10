@@ -1,4 +1,3 @@
-Вот пример README для вашего MATLAB-скрипта. Его можно положить в файл `README.md` в вашем проекте.
 # LTE PSS/SSS Signal Generation and Synchronization in MATLAB
 
 Этот проект содержит MATLAB-скрипт для генерации и синхронизации сигналов Primary Synchronization Signal (PSS) и Secondary Synchronization Signal (SSS) в LTE-сети. Скрипт позволяет создавать OFDM-волны с PSS/SSS, выполнять синхронизацию по PSS, визуализировать сигналы и сохранять их для последующего использования (например, для передачи через HackRF).
